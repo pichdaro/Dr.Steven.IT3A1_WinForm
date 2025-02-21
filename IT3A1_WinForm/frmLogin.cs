@@ -30,6 +30,7 @@ namespace IT3A1_WinForm
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            //Call Login() Method
             Login();
         }
 
